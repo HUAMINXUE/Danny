@@ -1,0 +1,17 @@
+1，概述：
+壹共三個作業兩個文件，HW2文件裏面包含HW2，HW3 
+裏面的data數據結果文件都是被壓縮的
+
+2，版本信息：
+python==3.7.1
+keras==2.2.4
+pyts==0.7.1
+
+3，運行情況：
+HW1大概三個小時
+HW2和HW3大概10多分鐘
+
+4，作業具體說明：
+HW1：使用了eveningStar，shootingStar，bearishHarami這三個指標，並且最終結果保存到了./data文件下，名字為eurusd_2010_2017_1T_rulebase.csv
+HW2：無
+HW3：用了HW1得到的數據，通過GAFS編碼，然後CNN分類。
